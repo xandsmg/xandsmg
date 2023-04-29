@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/origin/43/435edadf8efc4dcb252a38ece030ec5b_w200.webp" width="300" transform="scaleX(-1)"/>
+  <img src="https://i.gifer.com/origin/43/435edadf8efc4dcb252a38ece030ec5b_w200.webp](https://i.gifer.com/origin/da/da75c071e7973f67ad5c906cfaedd3c3_w200.webp" width="300"/>
 </div>
 
 <div id="header" align="center">
