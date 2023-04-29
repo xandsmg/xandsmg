@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://i.gifer.com/origin/43/435edadf8efc4dcb252a38ece030ec5b_w200.webp](https://i.gifer.com/origin/da/da75c071e7973f67ad5c906cfaedd3c3_w200.webp" width="300"/>
-</div>
+[https://i.gifer.com/origin/43/435edadf8efc4dcb252a38ece030ec5b_w200.webp](https://i.gifer.com/origin/da/da75c071e7973f67ad5c906cfaedd3c3_w200.webp)
 
 <div id="header" align="center">
   <h1>lol</h1><img src="http://2.bp.blogspot.com/-mtCmolVLxT8/VRkzB6JbbfI/AAAAAAAAPvI/wL6VJNbtzuM/s1600/Quico%2B2.gif" width="300"/>
