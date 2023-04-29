@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60aaf4ef-552f-4ad0-968c-0a65ac7cdbc5/d62b81e-7525a95e-561e-413c-a518-522f73cb8dd2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwYWFmNGVmLTU1MmYtNGFkMC05NjhjLTBhNjVhYzdjZGJjNVwvZDYyYjgxZS03NTI1YTk1ZS01NjFlLTQxM2MtYTUxOC01MjJmNzNjYjhkZDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1T_B1pg8RHnLyS7LMR5lLH3fhnV_aUkU_0NxiXTYkHI" width="300"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60aaf4ef-552f-4ad0-968c-0a65ac7cdbc5/d62b81e-7525a95e-561e-413c-a518-522f73cb8dd2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwYWFmNGVmLTU1MmYtNGFkMC05NjhjLTBhNjVhYzdjZGJjNVwvZDYyYjgxZS03NTI1YTk1ZS01NjFlLTQxM2MtYTUxOC01MjJmNzNjYjhkZDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1T_B1pg8RHnLyS7LMR5lLH3fhnV_aUkU_0NxiXTYkHI" width="200"/>
 </div>
 
 <!--
@@ -9,6 +9,12 @@
 <br>
 -->
 <br>
+
+<div id="header" align="center">
+  <img src="https://33.media.tumblr.com/766ffeec317b468fbb1cf45e169be99e/tumblr_mrcendwYS81s9o2o3o8_500.gif" width="300"/>
+</div>
+
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
