@@ -5,8 +5,8 @@
 --->
 <div id="header" align="center">
   <h1>ROUND 01</h1>
-  <img src="https://i.pinimg.com/originals/14/eb/c8/14ebc88651f61d67a40047ebd563501d.gif" width="400"/>
-  <button>START</button>
+  <img src="https://i.pinimg.com/originals/14/eb/c8/14ebc88651f61d67a40047ebd563501d.gif" width="400"/><br>
+  <button style="background-color: red">START</button>
 </div>
 <script>
   
