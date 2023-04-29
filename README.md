@@ -1,7 +1,5 @@
-https://49.media.tumblr.com/386ae2718460f21b6138f47a11b06dab/tumblr_n6c2m5Ym431tp8z2eo1_400.gif
 <div id="header" align="center">
-  <img src="" width="300"/>
-  <img src="https://49.media.tumblr.com/386ae2718460f21b6138f47a11b06dab/tumblr_n6c2m5Ym431tp8z2eo1_400.gif" width="300"/>
+  <img src="https://i.gifer.com/origin/43/435edadf8efc4dcb252a38ece030ec5b_w200.webp" width="300" transform="scaleX(-1)"/>
 </div>
 
 <div id="header" align="center">
