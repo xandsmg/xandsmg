@@ -13,14 +13,7 @@
   <img src="https://www.andersonkenya1.net/uploads/monthly_2020_08/5f3b90c1267be_primitivestance.gif.f1a76cdddbd080f53da2f254911a71ab.gif" width="400"/>
   <img src="https://i.gifer.com/origin/43/435edadf8efc4dcb252a38ece030ec5b_w200.gif" width="350"/>
 </div>
-
 <br>
-
-<div id="header" align="center">
-  <img src="https://33.media.tumblr.com/766ffeec317b468fbb1cf45e169be99e/tumblr_mrcendwYS81s9o2o3o8_500.gif" width="400"/>
-</div>
-<br>
-
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
