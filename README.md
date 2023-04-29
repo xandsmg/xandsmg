@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/mMp2vB78fN0AAAAd/kamen-rider-black-rx-kamen-rider-drive.gif" width="300" transform="scaleX(-1)"/>
+  <img src="https://media.tenor.com/mMp2vB78fN0AAAAd/kamen-rider-black-rx-kamen-rider-drive.gif" width="300"/>
 </div>
 
 <div id="header" align="center">
