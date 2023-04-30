@@ -3,7 +3,7 @@
 </div>
 <br>
 <div id="header" align="center">
-  <img src="https://media.tenor.com/g-ghbmfuaK4AAAAj/jotaro-kujo-dance.gif" width="300"/>
+  <img src="https://media.tenor.com/g-ghbmfuaK4AAAAj/jotaro-kujo-dance.gif" width="200"/>
 </div>
 <br>
 
