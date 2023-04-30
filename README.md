@@ -3,7 +3,7 @@
   <h1>lol</h1><img src="http://2.bp.blogspot.com/-mtCmolVLxT8/VRkzB6JbbfI/AAAAAAAAPvI/wL6VJNbtzuM/s1600/Quico%2B2.gif" width="300"/>
 </div>
 --->
-<div id="header" align="center">
+<div id="header" align="center" border="1px solid white">
   <h1>ROUND ∞</h1>
   <img src="https://i.pinimg.com/originals/14/eb/c8/14ebc88651f61d67a40047ebd563501d.gif" width="400"/>
 </div>
