@@ -5,7 +5,7 @@
 <br>
 -->
 <div id="header" align="center">
-  <img src="https://media.tenor.com/BSFGr3MWAicAAAAj/fortnite-dance-anime.gif" width="200"/>
+  <img src="https://media.tenor.com/76uQJ3zY0i4AAAAj/dog-dance.gif" width="200"/>
 </div>
 <br>
 
