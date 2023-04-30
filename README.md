@@ -11,7 +11,7 @@
 
 -->
 <div id="header" align="center">
-  <img src="https://media.tenor.com/fWA2N8CPWEkAAAAj/sonic-mania.gif" width="200"/>
+  <img src="https://media.tenor.com/nCWKmjQRFvkAAAAj/metalhead-metal.gif" width="200"/>
 </div>
 <br>
 
