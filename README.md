@@ -1,5 +1,5 @@
 <div>
-  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="70"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="70"/>
 </div>
 
 <div align="center">
