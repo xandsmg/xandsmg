@@ -13,6 +13,9 @@
 <div align="center">
   <img src="https://media.tenor.com/d22Jj6OezUsAAAAi/isekai-quartet-anime.gif" width="300"/>
 </div>
+<div>
+  <img src="https://wifflegif.com/tags/23024-ozzy-osbourne-gifs?page=0"/>
+</div>
 
 
 
