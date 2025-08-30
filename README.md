@@ -1,6 +1,6 @@
 <h1 align="left">Olá</h1>
 <div align="center">
-  <p>Meu nome é João</p>
+<p align="center">Meu nome é João</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/>
