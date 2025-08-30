@@ -1,5 +1,5 @@
-<div align="left">
-<h1>Olá</h1>
+<h1 align="center">Olá</h1>
+<div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/>
