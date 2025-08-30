@@ -1,4 +1,4 @@
-<h1 align="left">Olá</h1>
+<h1 align="left" border="none">Olá</h1>
 <div align="center">
 <p align="center">Meu nome é João</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/>
