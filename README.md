@@ -7,8 +7,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40"/>
 </div>
 <br><br>
+<hr width="100%"></hr>
 <br><br>
-<p align="center">----------------------------------------------------------------------------------------------------------------------</p>
 <div align="center">
   <img src="https://media.tenor.com/d22Jj6OezUsAAAAi/isekai-quartet-anime.gif" width="250"/>
 </div>
