@@ -1,5 +1,5 @@
-<h2>My Tools</h2>
 <div align="center">
+  <h2>My Tools</h2>  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/>
