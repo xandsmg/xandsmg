@@ -8,7 +8,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40"/>
 
 <br>
-<hr width="100%" size="1"></hr>
+
 <br>
 
   <img src="https://media.tenor.com/d22Jj6OezUsAAAAi/isekai-quartet-anime.gif" width="250"/>
