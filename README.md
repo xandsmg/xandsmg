@@ -1,4 +1,3 @@
-<h1>Minhas ferramentas / My tools<h1/>
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50"/>
